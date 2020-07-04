@@ -1,0 +1,20 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "\u0014This ia a test directory to learn Git and node",
+  "main": "index.js",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "keywords": [
+    "Sushmita",
+    "Kumari"
+  ],
+  "author": "Sushmita",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
